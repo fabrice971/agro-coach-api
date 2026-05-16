@@ -1,0 +1,7 @@
+crewai>=0.30.0
+langchain-openai
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic>=2.6.0
+httpx
